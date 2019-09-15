@@ -119,7 +119,7 @@ Column Names and descriptions for Kings County Data Set
 
 
 <div>
-<img src="map showing key zips.gif" width="300"/> <img src="kde on map 2.gif" width="300"/> 
+<img src="map showing key zips.GIF" width="300"/> <img src="kde on map 2.GIF" width="300"/> 
 </div
 
 
