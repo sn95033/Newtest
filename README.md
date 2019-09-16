@@ -6,7 +6,7 @@ Please fill out:
 * Student pace: full time online
 * Scheduled project review date/time: September 17, 8:30 AM
 * Instructor name: Victor Geislinger
-* Blog post URL:
+* Blog post URL:  https://github.com/sn95033/Seattle-Housing-Price-Analysis
 
 
 <div>
